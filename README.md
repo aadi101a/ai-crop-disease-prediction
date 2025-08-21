@@ -48,8 +48,8 @@ It aims to help farmers and agricultural researchers quickly identify plant dise
 
 1. Clone the repository  
    ```bash
-  git clone https://github.com/aadi101a/crop-disease-prediction.git
-  cd crop-disease-prediction
+   git clone https://github.com/aadi101a/crop-disease-prediction.git
+   cd crop-disease-prediction
 
 2. Create a virtual environment (optional but recommended)
      python -m venv venv
