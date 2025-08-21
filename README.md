@@ -88,7 +88,7 @@ It aims to help farmers and agricultural researchers quickly identify plant dise
 
 👨‍💻 Author
 
-Mohd Adeeb
+Name: Mohd Adeeb &
 GitHub: aadi101a
 
 📜 License
